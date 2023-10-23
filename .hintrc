@@ -7,7 +7,12 @@
       "default",
       {
         "ignore": [
-          "width: fit-content"
+          "width: fit-content",
+          "user-select",
+          "backdrop-filter",
+          "scale",
+          "-webkit-tap-highlight-color",
+          "height: fit-content"
         ]
       }
     ]
