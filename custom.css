@@ -494,7 +494,7 @@ animation: light_5px 10s linear infinite;
 
 
 
-/* 标题增强 */
+/* 导航栏start标题增强 */
 #site-name::before {
   opacity: 0;
   background-color: #4fc8ce !important;
@@ -544,7 +544,7 @@ animation: light_5px 10s linear infinite;
   -ms-transition: none!important;
   transition: none!important;
 }
-
+/*end*/
 
 
 
