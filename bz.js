@@ -214,7 +214,13 @@ function createWinbox() {
     <div class="content">
       <div class="bgbox">
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://sourcebucket.s3.ladydaily.com/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https\://sourcebucket.s3.ladydaily.com/img/mb4.webp)')"></a>
-      </div>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n811zs.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20/n811zs.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n81rh6.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20n81rh6.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n819jb.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20/n819jb.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n8168b.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20/n8168b.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n81hxv.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20/n81hxv.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n81o44.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20/n81o44.webp)')"></a>      
+        </div>
     </div>
   </details>
   
