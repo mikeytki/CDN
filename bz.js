@@ -123,8 +123,14 @@ function createWinbox() {
   // 每一类我放了一个演示，直接往下复制粘贴 a标签 就可以，需要注意的是 函数里面的链接 冒号前面需要添加反斜杠\进行转义
   winbox.body.innerHTML = `
   <div id="article-container" style="padding:10px;">
-  <center><p><button onclick="localStorage.removeItem('blogbg');location.reload();" style="background:linear-gradient(to right, #fc354c, #0abfbc);display:block;width:40%;padding: 15px 0;border-radius:30px;color:white;font-size:1.1em"><i class="fa-solid fa-arrows-rotate"></i> 点我恢复默认背景</button></p></center>
-  
+    <center>
+      <p>
+        <button onclick="localStorage.removeItem('blogbg');location.reload();" style="background:linear-gradient(to right, #fc354c, #0abfbc);display:block;width:40%;padding: 15px 0;border-radius:30px;color:white;font-size:1.1em">
+          <i class="fa-solid fa-arrows-rotate"></i> 点我恢复默认背景
+        </button>
+      </p>
+    </center>
+
   <h3>1. 二次元 </h3>
   <details class="folding-tag" cyan="">
     <summary> 查看二次元背景 </summary>

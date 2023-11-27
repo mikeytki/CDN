@@ -2,6 +2,41 @@
   background: url(https://i2.100024.xyz/2023/11/03/ppyc9h.webp) no-repeat center center;
   background-size: cover;
 }
+/* styles.css */
+
+.folding-tag summary {
+  display: list-item;
+  background-color: #e8fafe;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 10px;
+  padding-left: 20px;
+  backdrop-filter: blur(10px); /* 调整模糊程度，单位是像素 */
+  position: relative; /* 使得子元素的定位相对于其父元素 */
+}
+.folding-tag summary::before {
+  content: ''; /* 创建一个伪元素用于添加方框 */
+  position: absolute;
+  top: 48%; /* 垂直居中 */
+  left: 17px; /* 调整左侧边距 */
+  transform: translateY(-50%); /* 使得方框垂直居中 */
+  width: 8px; /* 方框宽度 */
+  height: 8px; /* 方框高度 */
+  border: 2px solid #333; /* 方框的颜色和边框宽度 */
+  border-radius: 10%; /* 使得方框呈圆形 */
+  background-color: #fff; /* 方框的背景色，可以根据需要调整 */
+}
+.folding-tag .content {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+  border: 1px solid #ebe2e2;
+  padding: 8px;
+  text-align: left;
+  background-color: #f7fcfc;
+  border-radius: 10px;
+}
+
 /* 页脚与头图透明 */
 #footer {
   background: transparent !important;
