@@ -156,7 +156,7 @@ function createWinbox() {
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/10/30/zj3ik1.webp)" class="imgbox" onclick="changeBg('url(https://i2.100024.xyz/2023/10/30/zj3ik1.webp)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/10/30/zj3tjb.webp)" class="imgbox" onclick="changeBg('url(https://i2.100024.xyz/2023/10/30/zj3tjb.webp)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/10/30/zj41qy.webp)" class="imgbox" onclick="changeBg('url(https://i2.100024.xyz/2023/10/30/zj41qy.webp)')"></a>
-        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://gcore.jsdelivr.net/gh/mikeytki/CDN/46.jpg)" class="imgbox" onclick="changeBg('url(https://gcore.jsdelivr.net/gh/mikeytki/CDN/46.jpg)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://jsd.cdn.zzko.cn/gh/mikeytki/CDN/img/77.jpg)" class="imgbox" onclick="changeBg('url(https://gcore.jsdelivr.net/gh/mikeytki/CDN/46.jpg)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://sourcebucket.s3.bitiful.net/img/yuanshen1.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.bitiful.net/img/yuanshen1.webp)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://sourcebucket.s3.bitiful.net/img/dm15.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.bitiful.net/img/dm15.webp)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://sourcebucket.s3.bitiful.net/img/dm2.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.bitiful.net/img/dm2.webp)')"></a>
@@ -175,9 +175,14 @@ function createWinbox() {
     <summary> 查看适配的风景</summary>
     <div class="content">
       <div class="bgbox">
-        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://gcore.jsdelivr.net/gh/mikeytki/CDN/you_1.jpg)" class="pimgbox" onclick="changeBg('url(https\://gcore.jsdelivr.net/gh/mikeytki/CDN/you_1.jpg)')"></a>
-        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>
-      </div>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>   
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/28/12l4qkr.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/28/12l4to2.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/28/12l55lo.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/28/12l5b3d.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/28/12l5exs.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/28/12l5kz5.webp)" class="imgbox" onclick="changeBg('url(https://sourcebucket.s3.ladydaily.com/img/fj1.webp)')"></a>
+        </div>
     </div>
   </details>
 
@@ -219,6 +224,7 @@ function createWinbox() {
     <summary> 查看适配手机背景 </summary>
     <div class="content">
       <div class="bgbox">
+        <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://gcore.jsdelivr.net/gh/mikeytki/CDN/img/you_1.jpg)" class="pimgbox" onclick="changeBg('url(https\://gcore.jsdelivr.net/gh/mikeytki/CDN/you_1.jpg)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://sourcebucket.s3.ladydaily.com/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https\://sourcebucket.s3.ladydaily.com/img/mb4.webp)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n811zs.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20/n811zs.webp)')"></a>
         <a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://i2.100024.xyz/2023/11/20/n81rh6.webp)" class="pimgbox" onclick="changeBg('url(https\://i2.100024.xyz/2023/11/20n81rh6.webp)')"></a>
@@ -236,12 +242,12 @@ function createWinbox() {
     <summary> 设置自定义背景 </summary>
     <div class="content"><p></p>
       <center>
-        <input type="text" id="pic-link" size="70%" maxlength="1000" placeholder="请输入有效的图片链接，如 https://source.fomal.cc/img/home_bg.webp">
+        <input type="text" id="pic-link" style="background:#c7ebe3" size="70%" maxlength="1000" placeholder="请输入有效的图片链接，如 https://source.fomal.cc/img/home_bg.webp">
       </center>
       <p></p>
       <p></p>
       <center>
-        <button class="winbox_btn" type="button" onclick="getPicture()" style="background:#aff58e;width:35%;padding: 5px 0px 7px 0px;border-radius:30px;color:white;line-height:2;">🌈切换背景🌈</button>
+        <button class="winbox_btn" type="button" onclick="getPicture()" style="background:#c7ebe3;width:35%;padding: 5px 0px 7px 0px;border-radius:30px;color:black;line-height:2;">🌈切换背景🌈</button>
       </center>
       <p></p>
     </div>
